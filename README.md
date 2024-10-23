@@ -19,7 +19,7 @@ KaihokoApi is a C# web API built with .NET 9, utilizing MongoDB as the database 
 
 1. Clone the repository:
     ```sh
-    git clone [https://github.com/yourusername/kaihoko_api.git](https://github.com/gustavooliveira2507/KaihokoApi)
+    git clone [https://github.com/gustavooliveira2507/kaihoko_api.git](https://github.com/gustavooliveira2507/KaihokoApi)
     ```
 2. Navigate to the project directory:
     ```sh
