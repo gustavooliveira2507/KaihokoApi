@@ -1,0 +1,6 @@
+@KaihokoApi_HostAddress = https://localhost:7161
+
+GET {{KaihokoApi_HostAddress}}/category/
+Accept: application/json
+
+###
